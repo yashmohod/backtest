@@ -1,0 +1,17 @@
+,value
+return_pct,131.63673216614637
+annualized_return_pct,52.06964050150591
+sharpe_ratio,1.3250146949986892
+sortino_ratio,3.0562356739654373
+calmar_ratio,2.6264941308140144
+max_drawdown_pct,-19.824769410532916
+avg_drawdown_pct,-2.688145402877078
+volatility_ann_pct,39.297406057490875
+win_rate_pct,100.0
+total_trades,3.0
+best_trade_pct,59.89424047914251
+worst_trade_pct,13.31980515857072
+avg_trade_pct,33.785619235849374
+buyhold_return_pct,194.49014102162877
+alpha_pct,41.86998145334714
+beta,0.4615491059920435
